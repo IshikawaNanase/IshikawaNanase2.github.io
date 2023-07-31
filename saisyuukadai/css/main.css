@@ -1,0 +1,60 @@
+@charset "utf8";
+
+*{
+    font-family: sans-serif;
+}
+
+body{
+    font-size: 16px;
+}
+
+h1{
+    background-color: rgb(10, 238, 238);
+}
+
+dt{
+    color: blueviolet;
+}
+th{
+
+    color: rgb(193, 8, 131);
+}
+
+th{
+    background-color: rgb(239, 169, 239);
+}
+
+dt{
+    color: #059a05;
+}
+
+dt{
+    font-size: 30px;
+}
+
+
+dd{
+    background-color:rgb(136, 230, 115)
+}
+    
+}
+
+dt{
+    line-height: 50px;
+
+    text-align: center;
+
+   
+    text-align: justify;
+    text-align-last: :justify;
+
+}
+
+div{
+   
+    background-image:url(../media/スポーツ写真.jpg)
+    background-repeat: none
+    background-size: 100%;
+}
+
+
